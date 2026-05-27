@@ -1,6 +1,9 @@
 import requests
 import datetime
-api_key = "b153a7022cda842d7ad22fce33003316"
+import os
+from dotenv import load_dotenv
+load_dotenv()
+api_key = os.getenv("API_KEY")
 while True:
     city_name = input("enter the name of the city (or 'exit' to quit): ")
     if city_name.lower() == "exit":
