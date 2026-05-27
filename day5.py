@@ -1,6 +1,7 @@
 import os
-import requests
-api_key = os.getenv("OPENAI_API_KEY")
+from dotenv import load_dotenv
+load_dotenv()
+api_key = os.getenv("API_KEY")
 while True:
     city_name = input("enter the name of the city (or 'exit' to quit): ")
     if city_name.lower() == "exit":
