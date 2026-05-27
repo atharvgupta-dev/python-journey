@@ -1,0 +1,4 @@
+City: Bhopal | Temp: 36.13°C | Time: 2026-05-27 10:27:43.061287
+City: Vidisha | Temp: 40.67°C | Time: 2026-05-27 10:27:47.164554
+City: Allahabad | Temp: 42.54°C | Time: 2026-05-27 10:28:02.126760
+City: Lucknow | Temp: 33.99°C | Time: 2026-05-27 10:28:07.603714
