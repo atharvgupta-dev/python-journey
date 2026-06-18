@@ -1,4 +1,4 @@
-# Python Journey 🐍
+# Python 
 
 A collection of programs I built while learning Python from scratch.
 
